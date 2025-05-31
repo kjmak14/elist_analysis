@@ -3,14 +3,14 @@ Sales trends analysis for e-commerce company.
 
 # Overview 
 
-##ERD
+## ERD
 ![image](https://github.com/user-attachments/assets/b410c9bb-3296-4488-83f2-9d4f11fe9a19)
 
-#Deep-Dive Insights
+# Deep-Dive Insights
 Text
 
-##Sales Trends
+## Sales Trends
 
-##Product Trends
-##Loyalty Program
-##Refund Rates
+## Product Trends
+## Loyalty Program
+## Refund Rates
