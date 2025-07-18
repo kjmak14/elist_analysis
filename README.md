@@ -21,7 +21,11 @@ A trusted destination for high-performance electronics, Siara Tech offers a cura
   </ul>
 </details>
 
-# Executive Sumary
+# Interactive Tableau Dashboard
+The interactive dashboard can be found in Tableau Public [here](https://public.tableau.com/shared/JSPDGPXXY?:display_count=n&:origin=viz_share_link). This dashboard enables users to filter by customer region, country, and country code, focusing on sales and marketing metrics.
+<img width="1399" height="1399" alt="image" src="https://github.com/user-attachments/assets/17ee1842-85e6-48cb-91c6-26eb59531bb9" />
+
+# Executive Summary
 ### Overview of Findings
 <img width="1013" height="639" alt="image" src="https://github.com/user-attachments/assets/76218c6e-e5e2-4273-b9b4-c252e710eaaa" />
 Siara Tech experienced explosive pandemic-driven growth peaking at $10M in 2020, but revenue has since declined 46% as market conditions normalized, highlighting the need for sustainable growth strategies beyond remote work trends. The loyalty program is counterproductive, with non-loyalty customers outperforming across all metrics, while APAC represents significant untapped growth potential with premium customer behavior. Quality challenges are eroding over $1M annually and require immediate attention to protect profitability.
